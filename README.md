@@ -1,4 +1,4 @@
-bem vindo ao meu repositorio! Espero que goste!!
+bem vindo ao meu repositorio! Essa é a minha primeira API, espero que goste!!
 neste ReadMe vou te ensinar a rodar a API, então preste bastante atenção nas informações abaixo
 
 ##  Como Rodar a API
@@ -56,7 +56,7 @@ Retorna a lista de pilotos de uma equipe específica.
 Exemplo de Requisição:
 
 
-/f1/equipes/Red%20Bull%20Racing
+/f1/equipes/Red Bull Racing
 ---------------------------
 
 -----------------------
