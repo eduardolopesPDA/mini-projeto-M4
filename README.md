@@ -48,6 +48,7 @@ Exemplo de Requisição:
 
 ----------------------------
 ➡️ GET: /f1/equipes/:equipe
+
 Retorna a lista de pilotos de uma equipe específica.
 
 
@@ -60,8 +61,8 @@ Exemplo de Requisição:
 
 -----------------------
 🛠️ Tecnologias
-
+-
 Node.js
-
+-
 Express
 ----------------------
