@@ -21,10 +21,13 @@ Rodando com node:
 npm start
 
 
+
 🔗 Endpoints da API
+
 ➡️ GET: /f1/pilotos
 
 Retorna uma lista de todos os pilotos do grid de 2025 com suas respectivas equipes.
+
 
 
 
@@ -38,6 +41,7 @@ Exemplo de Requisição:
 /f1/pilotos/3
 
 
+
 ➡️ GET: /f1/equipes/:equipe
 Retorna a lista de pilotos de uma equipe específica.
 
@@ -48,6 +52,7 @@ Exemplo de Requisição:
 
 
 🛠️ Tecnologias
+
 Node.js
 
 Express
